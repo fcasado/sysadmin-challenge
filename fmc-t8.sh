@@ -5,7 +5,7 @@
 #              for this ssh not has more elaborated credentials.
 
 # Main variables
-ACCOUNT=student
+ACCOUNT=myuser
 OUTPUT_FILE=servers_version.txt
 INPUT_FILE=$(cat $1)
 ERR_LACK_ARGU=33

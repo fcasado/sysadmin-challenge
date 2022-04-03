@@ -1,0 +1,10 @@
+Sysadmin Challenge:  
+ 8. Using bash write a script to get OS version from multiple Linux Servers
+ Premisses:
+  - The script must receive an argument to process, which is the filename
+    (myservers_list.txt);
+  - You will use 'ssh' command to connect into different servers using 
+    'myuser' as the username;
+ The result should be writted in the file 'servers_version.txt' using the
+ format bellow:
+ date (hh:mm:ss mm/dd/yy)	<server name>	<server ip> <server version>

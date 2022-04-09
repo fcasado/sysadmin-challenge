@@ -1,6 +1,6 @@
 #!/bin/bash
 # coding: utf-8
-# 20220402 fmc - Sysadmin Challenge Q9
+# 20220409 fmc - Sysadmin Challenge Q9
 
 # Main variables
 OUTPUT_FILE=/tmp/output_1.txt

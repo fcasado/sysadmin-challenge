@@ -8,6 +8,7 @@
 ACCOUNT=myuser
 OUTPUT_FILE=servers_version.txt
 INPUT_FILE=$(cat $1)
+#INPUT_FILE=$1
 ERR_LACK_ARGU=33
 
 # Argument checker
